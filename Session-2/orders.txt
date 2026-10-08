@@ -1,0 +1,5 @@
+Pizza - ₹250
+Burger - ₹180
+Biryani - ₹220
+Sandwich - ₹150
+Pasta - ₹200
