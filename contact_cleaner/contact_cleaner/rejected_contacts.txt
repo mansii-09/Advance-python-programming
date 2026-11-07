@@ -1,0 +1,1 @@
+Riya,5000000004,390007 | Rejected: Invalid mobile number\nDev,9000000005,056001 | Rejected: Invalid PIN code\nNeil,1234500000,388001 | Rejected: Invalid mobile number\nKian,900000000,380015 | Rejected: Invalid mobile number\nMira,5000000008,38001 | Rejected: Invalid mobile number, Invalid PIN code\nReyansh,12345,056001 | Rejected: Invalid mobile number, Invalid PIN code\n
